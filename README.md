@@ -15,6 +15,6 @@ Stream a video from your computer with this command:
 
 `ffmpeg -stream_loop -1 -re -i 1080p-sync-test.mp4 -f flv rtmp://localhost/restream`
 
-_Video source: https://www.youtube.com/watch?v=ucZl6vQ_8Uo_
+_Test video credits: https://www.youtube.com/watch?v=ucZl6vQ_8Uo_
 
 
